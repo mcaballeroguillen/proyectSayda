@@ -1,0 +1,21 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@article{ossa2002tendencias,
+	author = "Ossa, Guillermo Cardona",
+	journal = "Edutec. Revista electr{\'o}nica de tecnolog{\'i}a educativa",
+	number = "15",
+	pages = "a025--a025",
+	title = "{Tendencias educativas para el siglo XXI. Educaci{\'o}n virtual, online y@ learning. Elementos para la discusi{\'o}n}",
+	year = "2002"
+}
+
+@article{cardoso2018educacion,
+	author = "Cardoso, Carmen Natacha P{\'e}rez and Mella, Rogelio Pedro Su{\'a}rez and Su{\'a}rez, Nancy Azucena Rosillo",
+	journal = "Atenas",
+	number = "44",
+	pages = "144--157",
+	title = "{La educaci{\'o}n virtual interactiva, el paradigma del futuro}",
+	volume = "4",
+	year = "2018"
+}
+
