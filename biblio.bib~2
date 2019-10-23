@@ -1,0 +1,49 @@
+@article{ossa2002tendencias,
+	author = "Ossa, Guillermo Cardona",
+	journal = "Edutec. Revista electr{\'o}nica de tecnolog\'{\i}a educativa",
+	number = "15",
+	pages = "a025--a025",
+	title = "Tendencias educativas para el siglo XXI. Educaci{\'o}n virtual, online y@ learning. Elementos para la discusi{\'o}n",
+	year = "2002"
+}
+
+@article{cardoso2018educacion,
+	author = "Cardoso, Carmen Natacha P{\'e}rez and Mella, Rogelio Pedro Su{\'a}rez and Su{\'a}rez, Nancy Azucena Rosillo",
+	journal = "Atenas",
+	number = "44",
+	pages = "144--157",
+	title = "La educaci{\'o}n virtual interactiva, el paradigma del futuro",
+	volume = "4",
+	year = "2018"
+}
+
+@article{gutierrez2017data,
+	author = "Gutierrez, Claudio",
+	journal = "arXiv preprint arXiv:1707.07029",
+	title = "Data, Science and Society",
+	year = "2017"
+}
+
+@inproceedings{zhou2010impact,
+	author = "Zhou, Renjie and Khemmarat, Samamon and Gao, Lixin",
+	booktitle = "Proceedings of the 10th ACM SIGCOMM conference on Internet measurement",
+	organization = "ACM",
+	pages = "404--410",
+	title = "The impact of YouTube recommendation system on video views",
+	year = "2010"
+}
+
+@inproceedings{roa2005mejora,
+	author = "Roa, Jorge and Gramajo, Sergio D and Vigil, Rodrigo and Ram\'{\i}rez, Rosina and Karanik, Marcelo J and P{\'e}rez, Jos{\'e}",
+	booktitle = "I Jornadas de Educaci{\'o}n en Inform{\'a}tica y TICs en Argentina",
+	title = "Mejora de la plataforma de e-learning Moodle utilizando redes neuronales",
+	year = "2005"
+}
+
+@article{paladea2019deteccion,
+	author = "Paladea, Carlos Gustavo",
+	publisher = "Facultad de Ciencias Exactas y Tecnolog\'{\i}as",
+	title = "Detecci{\'o}n autom{\'a}tica del nivel de conocimiento de estudiantes en entornos de e-learning",
+	year = "2019"
+}
+
